@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shahan Ahmed Khan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan having DevOps and MERN stack experience and striving to get AWS SAA certificate</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan having MERN stack experience and striving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahanahmed86&label=Profile%20views&color=0e75b6&style=flat" alt="shahanahmed86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahanahmed86" alt="shahanahmed86" /></a> </p>
 
-- 🔭 I’m currently working on **LivelyMeds**
+- 🔭 I’m currently working on **Deeneeapp**
 
-- 🌱 I’m currently learning **AWS SAA (Solution Architect Associates)**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahanahmed86](https://github.com/shahanahmed86)
 
-- 💬 Ask me about **MERN, DevOps, SAA, Docker**
+- 💬 Ask me about **MERN, Docker**
 
 - 📫 How to reach me **https://linkedin.com/in/shahanahmed86**
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1UYExSaG7-n4byuh1tIK5903wgwROMFYBWuT8VxRfjcY/edit?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1e4XggCxSoqGbAVRTNpAByv9HtdvVXwds/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am joyful kind of person and people love to work with me**
 
