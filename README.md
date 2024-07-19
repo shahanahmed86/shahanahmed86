@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Deeneeapp**
 
-- 🌱 I’m currently learning **NextJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shahanahmed86](https://github.com/shahanahmed86)
 
 - 💬 Ask me about **MERN, Docker**
